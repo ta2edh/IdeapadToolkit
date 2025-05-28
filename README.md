@@ -28,6 +28,7 @@
 | IdeaPad S145-14IIL 81W6 - credits [@Antonomasia3](https://github.com/Antonomasia3) | ✅ | ❌ | ✅ | ❌ |
 | IdeaPad S145-14IWL - thanks [@Matee001](https://github.com/Matee001) |  ❌ | ❌ | ✅ | ❌ |
 | IdeaPad Z50-70 - credits [@Ozzypozzy](https://github.com/Ozzypozzy) | ❌ | ❌ | ✅ | ❌ |
+| Xiaoxin Pro-13 2020 - thanks [@BackMountainDevil](https://github.com/BackMountainDevil) | ✅ | ❌ | ✅ | ✅ |
 
 If you find your model is compatible and not on the list, please sumbit an issue
 
